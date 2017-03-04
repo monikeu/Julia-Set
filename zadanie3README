@@ -1,0 +1,10 @@
+Julia set- Assembly 8086 class project
+
+input arguments: 
+	xmin xmax ymin ymax cr ci
+	
+sample input:
+	-1.5 1.5 -1.5 1.5 -0.123 0.745
+
+
+It worked in DOSBox 0.74 installed on Windows 10 64 bit
